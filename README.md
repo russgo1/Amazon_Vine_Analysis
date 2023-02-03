@@ -27,13 +27,13 @@ Refer to the following breakdowns of paid and unpaid reviews:
 
 ### Comparison
 Total Reviews:
-Vine: 60 		Non-Vine: 14,447
+Vine: 60 - 		Non-Vine: 14,447
 
 5-Star Reviews:
-Vine: 34 		Non-Vine: 8,212
+Vine: 34 - 		Non-Vine: 8,212
 
 Proportion of 5-Star Reviews to Total Reviews:
-Vine: 56.67% 		Non-Vine: 56.72%
+Vine: 56.67% - 		Non-Vine: 56.72%
 
 ## Summary
 The results of this study suggest that there is no positivity bias for reviews in the Vine program among this dates. Although there are drastically less Vine reviews than non-Vine reviews, the respective proportions of 5-star reviews are almost identical. There is only a 0.05% difference (5 one-hundredths of a percent). Additionally, if that difference were significant, it would suggest that the positivity bias lies in the non-Vine reviews, which received the greater proportion of 5-star reviews.
